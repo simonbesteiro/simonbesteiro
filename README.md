@@ -1,14 +1,14 @@
 <div>
 <h2> Hi there 👋, I'm Simón Fernández Besteiro</h2>
 
-<img align='right' src="" width="240" >
+<img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4GHoKlZ1-EcvqSLKqzF6P1C9jIfeaNiSfPA&usqp=CAU" width="240" >
 <h3 align="center"</h3>
 
 #
 </br>
 
 
-[![Linkedin: Simon](https://img.shields.io/badge/-Martin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-fern%C3%A1ndez-besteiro/)](https://www.linkedin.com/in/simon-fern%C3%A1ndez-besteiro/)
+[![Linkedin: Simon](https://img.shields.io/badge/-Simon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-fern%C3%A1ndez-besteiro/)](https://www.linkedin.com/in/simon-fern%C3%A1ndez-besteiro/)
 [![GitHub Simon](https://img.shields.io/github/followers/simonbesteiro?label=follow&style=social)](https://github.com/simonbesteiro)
 
 ### A little more about me...
@@ -29,6 +29,4 @@ const Simon = {
 };
 ```
 
-<div >
- <em>🤘🏼<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to response!</b> 🤘🏼</em>
-</div>
+
