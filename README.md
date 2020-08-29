@@ -16,7 +16,7 @@
 ```javascript
 const Simon = {
   code: [Php, JavaScript, TypeScript, HTML, CSS, SQL, MongoDB],
-  tools: [React, Flux, Node, Testing:{frontend:{Jasmine, Jest},backend:{Mocha, Chai, Sinon}}, Express],
+  tools: [React, Flux, Node, Testing:{frontend:[Jasmine, Jest],backend:[Mocha, Chai, Sinon]}, Express],
   currentMotivations: {
     area: "Mobile development",
     tools: [ReactNative, Angular],
