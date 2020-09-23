@@ -22,8 +22,8 @@ const Simon = {
     tools: [ReactNative, Angular],
   },
   sideProject: {
-    description: "I'm curently developing a full stack app",
-    release: "At the end of september the first iteration will be released",
+    description: "I'm curently developing a full stack app called SpotShot",
+    release: "There is a release on my repos feel free to have a look and suggest changes",
   },
 
 };
