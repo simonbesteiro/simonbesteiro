@@ -18,14 +18,30 @@ const Simon = {
   code: [Php, JavaScript, TypeScript, HTML, CSS, SQL, MongoDB],
   tools: [React, Flux, Node, Testing:{frontend:[Jasmine, Jest],backend:[Mocha, Chai, Sinon]}, Express],
   currentMotivations: {
-    area: "Mobile development",
-    tools: [ReactNative, Angular],
+    area: "Software Developer",
+    tools: [ReactNative, React],
   },
-  sideProject: {
-    description: "I'm curently developing a full stack app called SpotShot",
-    release: "There is a release on my repos feel free to have a look and suggest changes",
-  },
-
+  currentJob:{
+    description: "Front-End Developer at Kave <Tech> / Kave Home",
+    tech-Stack: "Django, React, Jest, Docker, Kubernetes, Jenkins, Github Actions",
+  }
+  sideProjects: [
+    {
+      name: "Spotshot"
+      description: "App for photographer so they can find easily nearspots",
+      status: "There is a release on my repos feel free to have a look and suggest changes",
+    },
+   {
+      name: "Kohabi"
+      description: "Still a secret... 🤫",
+      status: "server created and self manteined by myself and develop first iteration, soon you wil have it",
+    },
+    {
+      name: "Dotombo"
+      description: "e-commerce where we sell 🤫🤫🤫🤫🤫",
+      status: "server created and self-manteined by myself, defining branch and views mockups",
+    },
+  ],
 };
 ```
 
