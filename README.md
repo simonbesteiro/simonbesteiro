@@ -27,17 +27,17 @@ const Simon = {
   }
   sideProjects: [
     {
-      name: "Spotshot"
+      name: "Spotshot",
       description: "App for photographer so they can find easily nearspots",
       status: "There is a release on my repos feel free to have a look and suggest changes",
     },
    {
-      name: "Kohabi"
+      name: "Kohabi",
       description: "Still a secret... 🤫",
       status: "server created and self manteined by myself and develop first iteration, soon you wil have it",
     },
     {
-      name: "Dotombo"
+      name: "Dotombo",
       description: "e-commerce where we sell 🤫🤫🤫🤫🤫",
       status: "server created and self-manteined by myself, defining branch and views mockups",
     },
