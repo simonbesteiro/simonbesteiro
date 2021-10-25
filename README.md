@@ -23,7 +23,7 @@ const Simon = {
   },
   currentJob:{
     description: "Front-End Developer at Kave <Tech> / Kave Home",
-    tech-Stack: "Django, React, Jest, Docker, Kubernetes, Jenkins, Github Actions",
+    techStack: "Django, React, Jest, Docker, Kubernetes, Jenkins, Github Actions",
   }
   sideProjects: [
     {
