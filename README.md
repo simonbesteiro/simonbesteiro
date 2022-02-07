@@ -10,33 +10,16 @@
 
 ```javascript
 const Simon = {
-  code: [Php, JavaScript, TypeScript, HTML, CSS, SQL, MongoDB],
-  tools: [React, Flux, Node, Testing:{frontend:[Jasmine, Jest],backend:[Mocha, Chai, Sinon]}, Express],
+  code: [Java, Php, JavaScript, TypeScript, HTML, CSS, SQL, MongoDB],
+  tools: [React, Flux, Node, Testing:{frontend:[Jasmine, Jest],backend:[Mocha, Chai, Sinon, Junit]}, Express],
   currentMotivations: {
-    area: "Software Developer",
-    tools: [ReactNative, React],
+    area: "Software Crafstperson",
+    tools: [Java, Javascript],
   },
   currentJob:{
-    description: "Front-End Developer at Kave <Tech> / Kave Home",
-    techStack:[Django, React, Jest, Docker, Kubernetes, Jenkins, Github Actions],
+    description: "Software Craftsperson in-training at Codurance",
+    techStack:[Java, Junit],
   },
-  sideProjects: [
-    {
-      name: "Spotshot",
-      description: "App for photographer so they can find easily nearspots",
-      status: "There is a release on my repos feel free to have a look and suggest changes",
-    },
-   {
-      name: "Kohabi",
-      description: "Still a secret... 🤫",
-      status: "server created and self manteined by myself and develop first iteration, soon you wil have it",
-    },
-    {
-      name: "Dotombo",
-      description: "e-commerce where we sell 🤫🤫🤫🤫🤫",
-      status: "server created and self-manteined by myself, defining branch and views mockups",
-    },
-  ],
 };
 ```
 
