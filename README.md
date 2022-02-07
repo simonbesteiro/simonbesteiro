@@ -13,7 +13,7 @@ const Simon = {
   code: [Java, Php, JavaScript, TypeScript, HTML, CSS, SQL, MongoDB],
   tools: [React, Flux, Node, Testing:{frontend:[Jasmine, Jest],backend:[Mocha, Chai, Sinon, Junit]}, Express],
   currentMotivations: {
-    area: "Software Crafstperson",
+    area: "Software Craftsperson",
     tools: [Java, Javascript],
   },
   currentJob:{
