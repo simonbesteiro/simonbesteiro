@@ -10,15 +10,14 @@
 
 ```javascript
 const Simon = {
-  code: [Java, Php, JavaScript, TypeScript, HTML, CSS, SQL, MongoDB],
-  tools: [React, Flux, Node, Testing:{frontend:[Jasmine, Jest],backend:[Mocha, Chai, Sinon, Junit]}, Express],
+  code: [Java, SpringBoot, Php, Laravel, C#, .Net, JavaScript, React, Vue, Angular, TypeScript, HTML, CSS, SQL, NoSQL],
   currentMotivations: {
     area: "Software Craftsperson",
-    tools: [Java, Javascript],
+    tools: [Software Architecture, Design Patterns, Extreme Programming],
   },
   currentJob:{
-    description: "Software Craftsperson in-training at Codurance",
-    techStack:[Java, Junit],
+    description: "Senior Software Developer at atNorth",
+    techStack:[Kotlin, Python, Go],
   },
 };
 ```
